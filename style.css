@@ -72,3 +72,9 @@ button {
 button:hover {
     background-color: #a0522d; /* Sienna */
 }
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f7f7f7;
+}
